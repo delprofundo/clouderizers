@@ -1,0 +1,19 @@
+{
+  "name": "clouderizers",
+  "version": "1.0.0",
+  "description": "a set of tools to simplify development against AWS platform tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/delprofundo/clouderizers.git"
+  },
+  "author": "delProfundo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/delprofundo/clouderizers/issues"
+  },
+  "homepage": "https://github.com/delprofundo/clouderizers#readme"
+}
